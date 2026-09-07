@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.aws/
+.env
+evidence.json
+*.log
